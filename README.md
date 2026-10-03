@@ -1,2 +1,2 @@
-# Planetarium-website
-It is about the celestial bodies and  all the elements present in the space and universe
+<h1>hello universe</h1>
+<h2>space is so preety</h2>
